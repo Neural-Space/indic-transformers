@@ -1,1 +1,1 @@
-# MergeQUAD Dataset
+# MergedQUAD Dataset
